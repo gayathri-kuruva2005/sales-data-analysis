@@ -60,6 +60,17 @@ This project analyzes Superstore sales data to identify sales trends, product pe
 5. Which products generate negative profit?
 6. How does discounting relate to profitability?
 
+## Key Insights
+
+- **Technology** generated the highest sales at approximately **836,154** and the highest profit at approximately **145,455**.
+- The **West** region generated the highest sales at approximately **725,458** and the highest profit at approximately **108,418**.
+- The **Consumer** segment contributed the highest sales at approximately **1.16 million**.
+- The **Canon imageCLASS 2200 Advanced Copier** was the highest-selling product, generating approximately **61,600** in sales.
+- Several products generated negative total profit. The **Cubify CubeX 3D Printer Double Head Print** had the lowest total profit at approximately **-8,880**.
+- The dataset shows that higher discount levels were often associated with lower average profit. For example, the average profit was negative at discount levels of **30% and above** in several cases.
+- Monthly sales varied considerably across the four-year period, with **November 2017** recording the highest monthly sales at approximately **118,448**.
+
 ## Conclusion
 
-The analysis provides a business-oriented view of sales performance by combining Python-based exploratory analysis, SQL queries, data visualization, and Excel reporting.
+The analysis demonstrates how Python, SQL, and Excel can be used together to examine sales performance and identify business patterns. The results highlight differences in category, regional, segment, and product performance, while the discount analysis provides an additional perspective on profitability.
+
